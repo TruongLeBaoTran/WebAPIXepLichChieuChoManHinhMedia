@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "Wec7w/zubqxHe/LUmrvOkCbmstE8S726tEYaLcjwo/Y=",
+  "Source": "BaoTran",
+  "BasePath": "_content/BaoTran",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BaoTran\\wwwroot",
+      "Source": "BaoTran",
+      "ContentRoot": "D:\\_00.WORK\\Test_ScheduleMusicPlayback\\BaoTran\\BaoTran\\wwwroot\\",
+      "BasePath": "_content/BaoTran",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\_00.WORK\\Test_ScheduleMusicPlayback\\BaoTran\\BaoTran\\wwwroot\\File\\Nghiepvu-638616404617968802.pdf",
+      "SourceId": "BaoTran",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\_00.WORK\\Test_ScheduleMusicPlayback\\BaoTran\\BaoTran\\wwwroot\\",
+      "BasePath": "_content/BaoTran",
+      "RelativePath": "File/Nghiepvu-638616404617968802.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\File\\Nghiepvu-638616404617968802.pdf"
+    },
+    {
+      "Identity": "D:\\_00.WORK\\Test_ScheduleMusicPlayback\\BaoTran\\BaoTran\\wwwroot\\File\\Nghiepvu-638616406121152403.pdf",
+      "SourceId": "BaoTran",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\_00.WORK\\Test_ScheduleMusicPlayback\\BaoTran\\BaoTran\\wwwroot\\",
+      "BasePath": "_content/BaoTran",
+      "RelativePath": "File/Nghiepvu-638616406121152403.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\File\\Nghiepvu-638616406121152403.pdf"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\_00.WORK\\Test_ScheduleMusicPlayback\\BaoTran\\BaoTran\\wwwroot\\File\\Nghiepvu-638616404617968802.pdf",
+      "PackagePath": "staticwebassets\\File\\Nghiepvu-638616404617968802.pdf"
+    },
+    {
+      "Id": "D:\\_00.WORK\\Test_ScheduleMusicPlayback\\BaoTran\\BaoTran\\wwwroot\\File\\Nghiepvu-638616406121152403.pdf",
+      "PackagePath": "staticwebassets\\File\\Nghiepvu-638616406121152403.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BaoTran.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BaoTran.props",
+      "PackagePath": "build\\BaoTran.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BaoTran.props",
+      "PackagePath": "buildMultiTargeting\\BaoTran.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BaoTran.props",
+      "PackagePath": "buildTransitive\\BaoTran.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
